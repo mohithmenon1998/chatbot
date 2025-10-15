@@ -1,0 +1,42 @@
+# Core Python & Data Science
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+jupyter
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+transformers
+accelerate
+sentencepiece
+
+# NLP / LLMOps
+langchain
+llama-index
+openai
+tiktoken
+
+# Vector Databases
+faiss-cpu
+weaviate-client
+pinecone-client
+
+# MLOps / Experiment Tracking
+mlflow
+dvc
+prefect
+optuna
+
+# API & Deployment
+fastapi
+uvicorn
+streamlit
+
+# Security & Utilities
+python-dotenv==1.0.1
+requests==2.32.3
